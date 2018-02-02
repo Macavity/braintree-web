@@ -9,7 +9,7 @@
 var PaymentRequestComponent = require('./external/payment-request');
 var basicComponentVerification = require('../lib/basic-component-verification');
 var wrapPromise = require('@braintree/wrap-promise');
-var VERSION = process.env.npm_package_version;
+var VERSION = '3.28.1';
 
 /**
  * @static

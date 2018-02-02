@@ -10,7 +10,7 @@ var basicComponentVerification = require('../lib/basic-component-verification');
 var BraintreeError = require('../lib/braintree-error');
 var errors = require('./shared/errors');
 var PayPal = require('./external/paypal');
-var VERSION = process.env.npm_package_version;
+var VERSION = '3.28.1';
 var wrapPromise = require('@braintree/wrap-promise');
 var Promise = require('../lib/promise');
 

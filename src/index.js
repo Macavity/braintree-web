@@ -53,7 +53,7 @@ var usBankAccount = require('./us-bank-account');
 var vaultManager = require('./vault-manager');
 var venmo = require('./venmo');
 var visaCheckout = require('./visa-checkout');
-var VERSION = process.env.npm_package_version;
+var VERSION = '3.28.1';
 
 module.exports = {
   /** @type {module:braintree-web/american-express} */

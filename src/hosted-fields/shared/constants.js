@@ -3,7 +3,7 @@
 
 var enumerate = require('../../lib/enumerate');
 var errors = require('./errors');
-var VERSION = process.env.npm_package_version;
+var VERSION = '3.28.1';
 
 var constants = {
   VERSION: VERSION,
