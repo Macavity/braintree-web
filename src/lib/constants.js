@@ -1,6 +1,6 @@
 'use strict';
 
-var VERSION = process.env.npm_package_version;
+var VERSION = '3.28.1';
 var PLATFORM = 'web';
 
 module.exports = {
